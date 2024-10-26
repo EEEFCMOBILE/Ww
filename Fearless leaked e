@@ -1,5 +1,5 @@
 getgenv().Fearless = {
-    ['ScriptKey'] = 'iAXEfPOiZZjWViDwBUBXhEQPeNFjfVoE', -- Fearless.ScriptKey
+    ['ScriptKey'] = 'Fearless.ScriptKey', -- Fearless.ScriptKey
     ['Intro'] = true,
 
     ['Silent Aim'] = {
